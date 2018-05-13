@@ -11,4 +11,4 @@ function isPrime(n){
   return true;
 }
 
-
+/* prime number application */
